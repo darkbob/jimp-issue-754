@@ -1,0 +1,15 @@
+{
+  "name": "jimp-issue-574",
+  "version": "1.0.0",
+  "description": "testing stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "klabbe von kluckmeister",
+  "license": "ISC",
+  "dependencies": {
+    "jimp": "^0.3.7",
+    "core-js": "1.2.7"
+  }
+}
